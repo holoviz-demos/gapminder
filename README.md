@@ -1,6 +1,6 @@
 # Gapminder Panel App
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/philippjfr/gapminder/master?urlpath=/proxy/5006/app)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/panel-demos/gapminder/master?urlpath=/proxy/5006/app)
 
 This repo contains:
 
