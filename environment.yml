@@ -2,9 +2,10 @@ dependencies:
   - nbserverproxy
   - conda-forge::altair
   - conda-forge::plotly
-  - pyviz/label/dev::holoviews=1.11.0a10
-  - pyviz/label/dev::hvplot=0.3.0a5
-  - pyviz/label/dev::panel=0.2.0a8
-  - pyviz::param=1.8.1
-  - pyviz::pyviz_comms=0.6.0
-  - bokeh::bokeh
+  - holoviews=1.12.2
+  - hvplot=0.4.0
+  - panel=0.5.1
+  - param=1.9.0
+  - pyviz_comms=0.7.2
+  - bokeh=1.1.0
+  - tornado<6
