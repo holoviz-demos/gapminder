@@ -48,7 +48,7 @@ commands:
 variables: {}
 
 env_specs:
-  pyviz-topics-gapminder:
+  pyviz-topics-gapminder: {}
     channels: []
     packages: []
   test:
